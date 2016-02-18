@@ -1,0 +1,6 @@
+namespace VideoUploader.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
